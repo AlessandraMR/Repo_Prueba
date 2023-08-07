@@ -1,0 +1,11 @@
+p {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+a {
+  font-size: 18px;
+  line-height: 30px;
+  color: purple;
+  text-decoration: none;
+}
